@@ -1,9 +1,9 @@
 # ComposeList
 
 
-![Scrollable Column](<./GIF/Column 1 .gif>) 
-![Scrollable Row](<./GIF/Row 1.gif>) 
-![Lazy Column](<./GIF/Lazy Column.gif>) 
-![Lazy Row](<./GIF/Lazy Row.gif>) 
-![Lazy Grid](<./GIF/Lazy Grid.gif>) 
-![Nested Composable](<./GIF/Mix.gif>) 
+<img src="GIF/Column 1 .gif" width="20%" />
+<img src="/GIF/Row 1.gif" width="20%" />
+<img src="/GIF/Lazy Column.gif" width="20%" />
+<img src="/GIF/Lazy Row.gif" width="20%" />
+<img src="/GIF/Lazy Grid.gif" width="20%" />
+<img src="/GIF/Mix.gif" width="20%" />
