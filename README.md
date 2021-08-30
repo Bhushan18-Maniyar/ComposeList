@@ -6,4 +6,4 @@
 ![Lazy Column](<./GIF/Lazy Column.gif>) 
 ![Lazy Row](<./GIF/Lazy Row.gif>) 
 ![Lazy Grid](<./GIF/Lazy Grid.gif>) 
-![Nested Composable](<./GIF/Mix.png>) 
+![Nested Composable](<./GIF/Mix.gif>) 
